@@ -9,6 +9,6 @@ Alguns projetos em Python
 
 - Um dos padrões mais comuns em API é pegar informações em formato json, uma espécie de dicionário que precisa ser tratada no Python para podermos analisar
 
-- As possibilidades de API são infinitas, vamos fazer 2 exemplos aqui: Cotação de Moedas e Envio de SMS.
+- As possibilidades de API são infinitas, vamos fazer alguns exemplos aqui com uma API de Cotação de Moedas.
 
 - Sites como Google, Youtube, Facebook, Twitter, ArcGis e praticamente qualquer ferramenta/site grande tem uma API.
