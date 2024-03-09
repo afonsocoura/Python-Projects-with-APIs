@@ -1,6 +1,4 @@
 # PythonProjects
-Alguns projetos em Python
-
  Python e API
 
 ### O que é uma API?
